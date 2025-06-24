@@ -1,0 +1,2057 @@
+[
+  {
+    "Angle": [
+      -28.424564361572266,
+      -172.4773406982422
+    ],
+    "Desc": "WalkJumpThrow",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "SpawnJanela",
+    "Pos": [
+      1374.811767578125,
+      -301.76324462890625,
+      -167.96875
+    ]
+  },
+  {
+    "Angle": [
+      -37.79670715332031,
+      -161.7400665283203
+    ],
+    "Desc": "JumpThrow",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Passagem",
+    "Pos": [
+      1422.96875,
+      70.96875,
+      -112.46875
+    ]
+  },
+  {
+    "Angle": [
+      -30.711998,
+      -171.376511
+    ],
+    "Desc": "Walk & Jump Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Spawn 1 Janela",
+    "Pos": [
+      1376.0,
+      -208.0,
+      -163.961243
+    ]
+  },
+  {
+    "Angle": [
+      -32.91201,
+      -169.352417
+    ],
+    "Desc": "Walk & Jump Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Spawn 2 Janela",
+    "Pos": [
+      1376.0,
+      -112.0,
+      -163.965088
+    ]
+  },
+  {
+    "Angle": [
+      -42.592102,
+      -173.819168
+    ],
+    "Desc": "Walk & Jump Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Spawn 3 Janela",
+    "Pos": [
+      1296.0,
+      -352.0,
+      -167.96875
+    ]
+  },
+  {
+    "Angle": [
+      -28.467972,
+      -172.476578
+    ],
+    "Desc": "Walk & Jump Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Spawn 4 Janela",
+    "Pos": [
+      1376.0,
+      -304.0,
+      -167.96875
+    ]
+  },
+  {
+    "Angle": [
+      -14.914789,
+      -111.028084
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "flash",
+    "Name": "Pop Tapete",
+    "Pos": [
+      -1038.03125,
+      390.048218,
+      -79.96875
+    ]
+  },
+  {
+    "Angle": [
+      -5.767235,
+      142.830719
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "flash",
+    "Name": "Pop Tapete",
+    "Pos": [
+      -1008.03125,
+      520.023621,
+      -79.96875
+    ]
+  },
+  {
+    "Angle": [
+      -69.514664,
+      38.815456
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "flash",
+    "Name": "Tapete",
+    "Pos": [
+      -2114.03125,
+      830.582214,
+      -121.516441
+    ]
+  },
+  {
+    "Angle": [
+      -65.176048,
+      -10.26129
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "flash",
+    "Name": "Liga",
+    "Pos": [
+      -496.03125,
+      -1309.03125,
+      -159.906188
+    ]
+  },
+  {
+    "Angle": [
+      -15.473553657532,
+      -179.4560546875
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "flash",
+    "Name": "Flash B",
+    "Pos": [
+      -161.03125,
+      576.08099365234,
+      -69.896903991699
+    ]
+  },
+  {
+    "Angle": [
+      -8.6592588424683,
+      146.82489013672
+    ],
+    "Desc": "After Throw Run",
+    "MapName": "de_mirage",
+    "Nade": "flash",
+    "Name": "Flash Van",
+    "Pos": [
+      -932.22076416016,
+      522.03125,
+      -81.093643188477
+    ]
+  },
+  {
+    "Angle": [
+      -63.906887054443,
+      95.205078125
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "flash",
+    "Name": "Pop Mid",
+    "Pos": [
+      -363.96875,
+      -935.24127197266,
+      -165.05032348633
+    ]
+  },
+  {
+    "Angle": [
+      -12.287053108215,
+      -175.29481506348
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "flash",
+    "Name": "Flash Liga / Janelao / L",
+    "Pos": [
+      360.07543945313,
+      -691.96875,
+      -162.49678039551
+    ]
+  },
+  {
+    "Angle": [
+      -78.604141235352,
+      80.861228942871
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_mirage",
+    "Nade": "flash",
+    "Name": "Pop L",
+    "Pos": [
+      -1249.03125,
+      516.11572265625,
+      -162.12817382813
+    ]
+  },
+  {
+    "Angle": [
+      -13.724261283875,
+      -109.66100311279
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "flash",
+    "Name": "Pop Mid",
+    "Pos": [
+      496.01165771484,
+      679.96875,
+      -135.96875
+    ]
+  },
+  {
+    "Angle": [
+      -25.563156,
+      -125.839951
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "flash",
+    "Name": "Pop Mid",
+    "Pos": [
+      399.452881,
+      280.292542,
+      -254.629974
+    ]
+  },
+  {
+    "Angle": [
+      -12.155787,
+      -131.646652
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "flash",
+    "Name": "Pop A",
+    "Pos": [
+      367.996399,
+      -2205.585693,
+      -39.96875
+    ]
+  },
+  {
+    "Angle": [
+      -9.010011,
+      -164.075577
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "flash",
+    "Name": "Pop A",
+    "Pos": [
+      569.428284,
+      -2224.203857,
+      -39.96875
+    ]
+  },
+  {
+    "Angle": [
+      -57.458416,
+      96.897598
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "flash",
+    "Name": "Pop A",
+    "Pos": [
+      31.991398,
+      -2375.96875,
+      -39.96875
+    ]
+  },
+  {
+    "Angle": [
+      -51.214836,
+      92.928322
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "flash",
+    "Name": "Pop Stairs",
+    "Pos": [
+      -496.644897,
+      -1388.091553,
+      -118.286835
+    ]
+  },
+  {
+    "Angle": [
+      -44.390076,
+      36.687622
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "flash",
+    "Name": "Pop Mid",
+    "Pos": [
+      -1647.990234,
+      -1072.61084,
+      -223.62051399999999
+    ]
+  },
+  {
+    "Angle": [
+      -54.312485,
+      59.823608
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "flash",
+    "Name": "Pop Janelao",
+    "Pos": [
+      -1209.082886,
+      -873.270813,
+      -167.96875
+    ]
+  },
+  {
+    "Angle": [
+      -4.072681,
+      108.984528
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "flash",
+    "Name": "Pop B",
+    "Pos": [
+      -1471.96875,
+      664.03125,
+      -47.96875
+    ]
+  },
+  {
+    "Angle": [
+      -37.786083,
+      -161.690292
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Passagem",
+    "Pos": [
+      1423.997803,
+      71.985359,
+      -112.840103
+    ]
+  },
+  {
+    "Angle": [
+      -28.809999,
+      -145.178696
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "CT",
+    "Pos": [
+      1088.867798,
+      -1020.665344,
+      -258.772736
+    ]
+  },
+  {
+    "Angle": [
+      -70.224258,
+      -178.82515
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Jungle",
+    "Pos": [
+      -31.915462,
+      -1418.030518,
+      -167.96875
+    ]
+  },
+  {
+    "Angle": [
+      -23.595955,
+      160.86795
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "L",
+    "Pos": [
+      360.06192,
+      -691.96875,
+      -162.495407
+    ]
+  },
+  {
+    "Angle": [
+      -40.062023,
+      -153.570801
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Ligação",
+    "Pos": [
+      360.07547,
+      -691.96875,
+      -162.49678
+    ]
+  },
+  {
+    "Angle": [
+      -26.797188,
+      -174.613022
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Liga e Jungle",
+    "Pos": [
+      815.999512,
+      -1457.235596,
+      -108.906189
+    ]
+  },
+  {
+    "Angle": [
+      -41.168613,
+      -165.354019
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Cabecinha",
+    "Pos": [
+      1148.225586,
+      -1183.999756,
+      -205.509155
+    ]
+  },
+  {
+    "Angle": [
+      -42.603077,
+      172.188919
+    ],
+    "Desc": "Run & Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Janelao",
+    "Pos": [
+      1391.96875,
+      -1011.236084,
+      -167.906188
+    ]
+  },
+  {
+    "Angle": [
+      -31.895834,
+      -62.464306
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Cabecinha",
+    "Pos": [
+      -90.864479,
+      -1418.000244,
+      -115.906189
+    ]
+  },
+  {
+    "Angle": [
+      -21.037338,
+      -151.204865
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Caixa Fogo",
+    "Pos": [
+      1391.96875,
+      -930.076294,
+      -167.906188
+    ]
+  },
+  {
+    "Angle": [
+      -10.477256,
+      133.144836
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "One-way",
+    "Pos": [
+      457.96875,
+      -1711.996582,
+      -240.886871
+    ]
+  },
+  {
+    "Angle": [
+      -32.654591,
+      -149.503601
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Bombsite A",
+    "Pos": [
+      815.998718,
+      -1272.017944,
+      -108.906189
+    ]
+  },
+  {
+    "Angle": [
+      -21.318205,
+      -144.344666
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "CT Spawn",
+    "Pos": [
+      1257.861938,
+      -871.96875,
+      -143.906188
+    ]
+  },
+  {
+    "Angle": [
+      -23.276257,
+      -3.978803
+    ],
+    "Desc": "Jump + Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Palacio",
+    "Pos": [
+      -2026.395142,
+      -2029.96875,
+      -299.11969
+    ]
+  },
+  {
+    "Angle": [
+      -30.228321075439453,
+      75.01888275146484
+    ],
+    "Desc": "Throw",
+    "MapName": "de_overpass",
+    "Nade": "smoke",
+    "Name": "Pilar",
+    "Pos": [
+      -1559.9722900390625,
+      -1087.84375,
+      7.366962432861328
+    ]
+  },
+  {
+    "Angle": [
+      -20.152313232421875,
+      53.76549530029297
+    ],
+    "Desc": "Throw",
+    "MapName": "de_overpass",
+    "Nade": "molotov",
+    "Name": "Barril",
+    "Pos": [
+      -1579.1395263671875,
+      -481.43756103515625,
+      140.03125
+    ]
+  },
+  {
+    "Angle": [
+      -60.63228988647461,
+      73.74205017089844
+    ],
+    "Desc": "Throw",
+    "MapName": "de_overpass",
+    "Nade": "smoke",
+    "Name": "Lixo",
+    "Pos": [
+      -2351.96875,
+      -415.53125,
+      393.1954650878906
+    ]
+  },
+  {
+    "Angle": [
+      -29.744382858276367,
+      100.8020248413086
+    ],
+    "Desc": "Throw",
+    "MapName": "de_overpass",
+    "Nade": "smoke",
+    "Name": "Bank",
+    "Pos": [
+      -2162.77734375,
+      -524.1492919921875,
+      390.53125
+    ]
+  },
+  {
+    "Angle": [
+      -37.488380432128906,
+      81.1778335571289
+    ],
+    "Desc": "Throw",
+    "MapName": "de_overpass",
+    "Nade": "smoke",
+    "Name": "Truck",
+    "Pos": [
+      -2351.96484375,
+      -815.9718627929688,
+      393.1954650878906
+    ]
+  },
+  {
+    "Angle": [
+      -44.92425537109375,
+      98.46976470947266
+    ],
+    "Desc": "Throw",
+    "MapName": "de_overpass",
+    "Nade": "smoke",
+    "Name": "Banheiro",
+    "Pos": [
+      -2417.54150390625,
+      -2524.463134765625,
+      493.0312194824219
+    ]
+  },
+  {
+    "Angle": [
+      -34.27638626098633,
+      73.16927337646484
+    ],
+    "Desc": "Throw",
+    "MapName": "de_overpass",
+    "Nade": "smoke",
+    "Name": "Connector",
+    "Pos": [
+      -2733.383544921875,
+      -2703.72216796875,
+      485.43035888671875
+    ]
+  },
+  {
+    "Angle": [
+      -40.43638610839844,
+      51.213356018066406
+    ],
+    "Desc": "Throw",
+    "MapName": "de_overpass",
+    "Nade": "smoke",
+    "Name": "TruckBank",
+    "Pos": [
+      -3617.921875,
+      -180.0733642578125,
+      518.1312866210938
+    ]
+  },
+  {
+    "Angle": [
+      -23.144533157348633,
+      -57.738948822021484
+    ],
+    "Desc": "Throw",
+    "MapName": "de_overpass",
+    "Nade": "smoke",
+    "Name": "Cimento",
+    "Pos": [
+      -2116.466064453125,
+      993.1411743164063,
+      484.03125
+    ]
+  },
+  {
+    "Angle": [
+      -24.903946,
+      92.619171
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_ancient",
+    "Nade": "smoke",
+    "Name": "Janelao",
+    "Pos": [
+      -391.972351,
+      -2066.497803,
+      -154.96875
+    ]
+  },
+  {
+    "Angle": [
+      -23.671936,
+      86.019257
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_ancient",
+    "Nade": "smoke",
+    "Name": "Janelao",
+    "Pos": [
+      -632.031006,
+      -2048.194336,
+      -153.414551
+    ]
+  },
+  {
+    "Angle": [
+      -28.951883,
+      99.790688
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_ancient",
+    "Nade": "smoke",
+    "Name": "Quadrado",
+    "Pos": [
+      -632.028503,
+      -2049.984131,
+      -153.414551
+    ]
+  },
+  {
+    "Angle": [
+      -11.703868,
+      110.146233
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_ancient",
+    "Nade": "smoke",
+    "Name": "Escuro",
+    "Pos": [
+      1247.427124,
+      -1471.442871,
+      24.583818
+    ]
+  },
+  {
+    "Angle": [
+      -11.923866,
+      105.746201
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_ancient",
+    "Nade": "smoke",
+    "Name": "Somba",
+    "Pos": [
+      1247.427124,
+      -1471.442871,
+      24.583813
+    ]
+  },
+  {
+    "Angle": [
+      -9.503855,
+      93.558128
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_ancient",
+    "Nade": "smoke",
+    "Name": "Quadrado",
+    "Pos": [
+      1255.96875,
+      -1479.96875,
+      30.014381
+    ]
+  },
+  {
+    "Angle": [
+      -28.116278,
+      61.168076
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_ancient",
+    "Nade": "smoke",
+    "Name": "Liga CT",
+    "Pos": [
+      -2143.96875,
+      -1003.96875,
+      -2.855164
+    ]
+  },
+  {
+    "Angle": [
+      -36.740303,
+      75.248131
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_ancient",
+    "Nade": "smoke",
+    "Name": "Templo",
+    "Pos": [
+      -2143.96875,
+      -1003.96875,
+      -2.855164
+    ]
+  },
+  {
+    "Angle": [
+      -9.327852,
+      -75.974182
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_ancient",
+    "Nade": "flash",
+    "Name": "Meio",
+    "Pos": [
+      -1170.52124,
+      1026.84668,
+      52.886803
+    ]
+  },
+  {
+    "Angle": [
+      -65.78003692626953,
+      64.2597885131836
+    ],
+    "Desc": "Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "DoubleDoor",
+    "Pos": [
+      -1831.179931640625,
+      1223.6884765625,
+      32.18801498413086
+    ]
+  },
+  {
+    "Angle": [
+      -61.29218673706055,
+      95.9395751953125
+    ],
+    "Desc": "JumpAndThrow",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "Altar",
+    "Pos": [
+      -1795.8651123046875,
+      1243.6612548828125,
+      71.0282974243164
+    ]
+  },
+  {
+    "Angle": [
+      -8.448344230651855,
+      87.11721801757813
+    ],
+    "Desc": "JumpAndThrow",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "Xbox",
+    "Pos": [
+      -404.488525390625,
+      -1051.968994140625,
+      128.03125
+    ]
+  },
+  {
+    "Angle": [
+      -11.088309288024902,
+      116.94908142089844
+    ],
+    "Desc": "JumpAndThrow",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "Xbox2",
+    "Pos": [
+      707.96484375,
+      -363.03125,
+      7.811524391174316
+    ]
+  },
+  {
+    "Angle": [
+      -38.337688446045,
+      66.459480285645
+    ],
+    "Desc": "Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "Fundo",
+    "Pos": [
+      629.77862548828,
+      -185.45384216309,
+      -2.139582157135
+    ]
+  },
+  {
+    "Angle": [
+      -12.760013,
+      58.04031
+    ],
+    "Desc": "Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "B Window",
+    "Pos": [
+      -1878.01001,
+      1814.030029,
+      79.03125
+    ]
+  },
+  {
+    "Angle": [
+      -25.321985,
+      -141.50827
+    ],
+    "Desc": "Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "B Retake",
+    "Pos": [
+      -986.1651,
+      2553.22998,
+      1.541878
+    ]
+  },
+  {
+    "Angle": [
+      -56.892017,
+      39.506298
+    ],
+    "Desc": "Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "Esquina Fundo",
+    "Pos": [
+      116.03125,
+      -276.03125,
+      6.350042
+    ]
+  },
+  {
+    "Angle": [
+      -48.619904,
+      48.284908
+    ],
+    "Desc": "Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "Esquina Fundo",
+    "Pos": [
+      222.664139,
+      -87.978325,
+      9.03125
+    ]
+  },
+  {
+    "Angle": [
+      -52.249619,
+      88.876717
+    ],
+    "Desc": "Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "CT",
+    "Pos": [
+      516.03125,
+      984.428711,
+      1.490063
+    ]
+  },
+  {
+    "Angle": [
+      -15.509949,
+      66.22406
+    ],
+    "Desc": "Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "CT",
+    "Pos": [
+      189.976761,
+      1334.018921,
+      1.083763
+    ]
+  },
+  {
+    "Angle": [
+      -65.681946,
+      63.495663
+    ],
+    "Desc": "Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "Double Door",
+    "Pos": [
+      -1833.855103,
+      1225.226562,
+      32.116993
+    ]
+  },
+  {
+    "Angle": [
+      -37.02586,
+      121.052864
+    ],
+    "Desc": "Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "Short",
+    "Pos": [
+      795.966064,
+      808.03125,
+      0.030518
+    ]
+  },
+  {
+    "Angle": [
+      -34.096576690674,
+      45.980194091797
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "Fundo",
+    "Pos": [
+      539.03125,
+      342.4094543457,
+      10.246395111084
+    ]
+  },
+  {
+    "Angle": [
+      -49.142864227295,
+      54.132152557373
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "Bomb A",
+    "Pos": [
+      273.03125,
+      1615.2932128906,
+      4.5235004425049
+    ]
+  },
+  {
+    "Angle": [
+      -9.9759569168091,
+      65.983047485352
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "Carro",
+    "Pos": [
+      572.03125,
+      -395.96875,
+      8.03125
+    ]
+  },
+  {
+    "Angle": [
+      -26.319889068604,
+      44.970390319824
+    ],
+    "Desc": "Run & Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "CT Passagem",
+    "Pos": [
+      860.01293945313,
+      790.03125,
+      4.310290813446
+    ]
+  },
+  {
+    "Angle": [
+      -24.449132919312,
+      43.145198822021
+    ],
+    "Desc": "Run & Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "CT Passagem",
+    "Pos": [
+      1092.0552978516,
+      1041.4573974609,
+      -1.7831245660782
+    ]
+  },
+  {
+    "Angle": [
+      -34.096576690674,
+      45.980194091797
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "Fundo",
+    "Pos": [
+      539.03125,
+      342.4094543457,
+      10.246395111084
+    ]
+  },
+  {
+    "Angle": [
+      -19.293462753296,
+      52.747867584229
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "Fundo",
+    "Pos": [
+      -190.51388549805,
+      -660.03125,
+      52.266586303711
+    ]
+  },
+  {
+    "Angle": [
+      -61.205829620361,
+      96.005111694336
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "B Entry",
+    "Pos": [
+      -1799.9499511719,
+      1249.0875244141,
+      71.023971557617
+    ]
+  },
+  {
+    "Angle": [
+      -13.768963813782,
+      110.96074676514
+    ],
+    "Desc": "Run & Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "Smoke Xbox",
+    "Pos": [
+      -1837.9906005859,
+      982.03125,
+      40.591506958008
+    ]
+  },
+  {
+    "Angle": [
+      -61.818943023682,
+      68.19994354248
+    ],
+    "Desc": "Duck & Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "Double Door",
+    "Pos": [
+      -1837.96875,
+      982.03125,
+      40.591590881348
+    ]
+  },
+  {
+    "Angle": [
+      -35.76216506958,
+      130.96583557129
+    ],
+    "Desc": "Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "CT Spawn",
+    "Pos": [
+      -275.03125,
+      1345.4163818359,
+      -122.35691833496
+    ]
+  },
+  {
+    "Angle": [
+      -33.386360168457,
+      90.258125305176
+    ],
+    "Desc": "Run & Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "CT Spawn",
+    "Pos": [
+      -403.03329467773,
+      -1051.96875,
+      108.03307342529
+    ]
+  },
+  {
+    "Angle": [
+      -11.514849662781,
+      0.058894004672766
+    ],
+    "Desc": "Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "Xbox",
+    "Pos": [
+      -1199.9790039063,
+      1435.9577636719,
+      -107.82657623291
+    ]
+  },
+  {
+    "Angle": [
+      -17.656442642212,
+      129.6028137207
+    ],
+    "Desc": "Run & Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "Xbox",
+    "Pos": [
+      53.118049621582,
+      308.03125,
+      0.4429660141468
+    ]
+  },
+  {
+    "Angle": [
+      7.393340587616,
+      114.32926940918
+    ],
+    "Desc": "Right Click",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "Oneway Mid",
+    "Pos": [
+      -489.96875,
+      1582.369140625,
+      -123.50793457031
+    ]
+  },
+  {
+    "Angle": [
+      -34.973766326904,
+      -113.82112884521
+    ],
+    "Desc": "Duck & Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "A Ramp",
+    "Pos": [
+      1300.03125,
+      2342.96875,
+      25.550573348999
+    ]
+  },
+  {
+    "Angle": [
+      -13.419624328613,
+      114.32571411133
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "Xbox",
+    "Pos": [
+      572.03125,
+      -395.96875,
+      8.03125
+    ]
+  },
+  {
+    "Angle": [
+      -17.507566452026,
+      -165.17434692383
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "Tunnel Entry",
+    "Pos": [
+      -337.03125,
+      2350.6865234375,
+      -105.9493637085
+    ]
+  },
+  {
+    "Angle": [
+      -32.383872985839844,
+      82.55062103271484
+    ],
+    "Desc": "Jump + Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "smoke-ct",
+    "Pos": [
+      758.73974609375,
+      -395.9661865234375,
+      68.03125
+    ]
+  },
+  {
+    "Angle": [
+      -50.687721252441406,
+      89.09113311767578
+    ],
+    "Desc": "Jump + Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "Janela B",
+    "Pos": [
+      -1332.0279541015625,
+      491.96875,
+      8.03125
+    ]
+  },
+  {
+    "Angle": [
+      -38.51195526123047,
+      95.8675537109375
+    ],
+    "Desc": "W + Jump + Throw",
+    "MapName": "de_dust2",
+    "Nade": "smoke",
+    "Name": "B Doors",
+    "Pos": [
+      -980.03125,
+      -396.96875,
+      128.68959045410156
+    ]
+  },
+  {
+    "Angle": [
+      -36.21195602416992,
+      -176.548095703125
+    ],
+    "Desc": "Jump + Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Van",
+    "Pos": [
+      -160.10101318359375,
+      887.9652099609375,
+      -135.32806396484375
+    ]
+  },
+  {
+    "Angle": [
+      -42.67997741699219,
+      -150.41175842285156
+    ],
+    "Desc": "Jump + Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Porta Mercado",
+    "Pos": [
+      -160.0301513671875,
+      887.96875,
+      -135.328125
+    ]
+  },
+  {
+    "Angle": [
+      -50.59990692138672,
+      -146.36410522460938
+    ],
+    "Desc": "Jump + Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Janela Mercado",
+    "Pos": [
+      -160.0301513671875,
+      887.96875,
+      -135.328125
+    ]
+  },
+  {
+    "Angle": [
+      -45.71599197387695,
+      -134.43939208984375
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "L",
+    "Pos": [
+      -160.03125,
+      887.9663696289063,
+      -135.32806396484375
+    ]
+  },
+  {
+    "Angle": [
+      -40.963985443115234,
+      -178.5688018798828
+    ],
+    "Desc": "throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "forest",
+    "Pos": [
+      -538.852783203125,
+      520.0335693359375,
+      -78.7696533203125
+    ]
+  },
+  {
+    "Angle": [
+      -72.55596923828125,
+      -171.44114685058594
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Edward",
+    "Pos": [
+      -606.4876098632813,
+      615.96826171875,
+      -78.9718017578125
+    ]
+  },
+  {
+    "Angle": [
+      -48.48795700073242,
+      -172.27725219726563
+    ],
+    "Desc": "throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "forest",
+    "Pos": [
+      -606.4876098632813,
+      615.96826171875,
+      -78.9718017578125
+    ]
+  },
+  {
+    "Angle": [
+      -37.311859130859375,
+      -164.5852508544922
+    ],
+    "Desc": "Jump + Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "L",
+    "Pos": [
+      496.03125,
+      679.9669189453125,
+      -135.96875
+    ]
+  },
+  {
+    "Angle": [
+      -37.971763610839844,
+      -175.6285400390625
+    ],
+    "Desc": "Jump + Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Edward",
+    "Pos": [
+      497.0308532714844,
+      609.3363647460938,
+      -135.96875
+    ]
+  },
+  {
+    "Angle": [
+      -17.76290512084961,
+      103.77342224121094
+    ],
+    "Desc": "Jump and Throw",
+    "MapName": "de_anubis",
+    "Nade": "smoke",
+    "Name": "Smoke Rato",
+    "Pos": [
+      13.535778045654297,
+      -1744.96826171875,
+      6.03125
+    ]
+  },
+  {
+    "Angle": [
+      -13.697225570678711,
+      151.98101806640625
+    ],
+    "Desc": "Jumpo And Throw",
+    "MapName": "de_anubis",
+    "Nade": "smoke",
+    "Name": "Smoke Rato",
+    "Pos": [
+      837.9691162109375,
+      -763.9686279296875,
+      -11.96875
+    ]
+  },
+  {
+    "Angle": [
+      -15.495633125305176,
+      121.53768920898438
+    ],
+    "Desc": "Throw",
+    "MapName": "de_anubis",
+    "Nade": "smoke",
+    "Name": "Smoke Muro",
+    "Pos": [
+      1259.96875,
+      548.0315551757813,
+      -75.96875
+    ]
+  },
+  {
+    "Angle": [
+      -32.38723373413086,
+      75.02727508544922
+    ],
+    "Desc": "Throw",
+    "MapName": "de_anubis",
+    "Nade": "smoke",
+    "Name": "Tumba",
+    "Pos": [
+      -1401.3592529296875,
+      -404.593994140625,
+      96.03125
+    ]
+  },
+  {
+    "Angle": [
+      -32.62923812866211,
+      69.65477752685547
+    ],
+    "Desc": "Throw",
+    "MapName": "de_anubis",
+    "Nade": "smoke",
+    "Name": "Rato",
+    "Pos": [
+      -1401.3592529296875,
+      -404.593994140625,
+      96.03125
+    ]
+  },
+  {
+    "Angle": [
+      -10.316950798034668,
+      125.36274719238281
+    ],
+    "Desc": "Throw",
+    "MapName": "de_anubis",
+    "Nade": "smoke",
+    "Name": "Escadas",
+    "Pos": [
+      1280.5281982421875,
+      571.9624633789063,
+      2.03125
+    ]
+  },
+  {
+    "Angle": [
+      -3.4925589561462402,
+      93.95114135742188
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_anubis",
+    "Nade": "smoke",
+    "Name": "Heaven",
+    "Pos": [
+      1149.96875,
+      610.0331420898438,
+      -188.8336181640625
+    ]
+  },
+  {
+    "Angle": [
+      -42.648136138916016,
+      89.20806884765625
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_anubis",
+    "Nade": "smoke",
+    "Name": "Tumba2",
+    "Pos": [
+      -938.377197265625,
+      -1363.4498291015625,
+      66.03125
+    ]
+  },
+  {
+    "Angle": [
+      -12.059329986572266,
+      99.9045639038086
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_anubis",
+    "Nade": "smoke",
+    "Name": "Bomb",
+    "Pos": [
+      -938.377197265625,
+      -1363.4498291015625,
+      66.03125
+    ]
+  },
+  {
+    "Angle": [
+      -13.559721946716309,
+      87.65999603271484
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_anubis",
+    "Nade": "smoke",
+    "Name": "Janelao",
+    "Pos": [
+      -181.37542724609375,
+      -1723.966064453125,
+      2.03125
+    ]
+  },
+  {
+    "Angle": [
+      -14.140535354614258,
+      91.53199005126953
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_anubis",
+    "Nade": "smoke",
+    "Name": "Janelao2",
+    "Pos": [
+      8.645646095275879,
+      -1744.9678955078125,
+      6.03125
+    ]
+  },
+  {
+    "Angle": [
+      -45.06052017211914,
+      -136.75746154785156
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_inferno",
+    "Nade": "smoke",
+    "Name": "MID",
+    "Pos": [
+      2154.041259765625,
+      1914.9453125,
+      140.83990478515625
+    ]
+  },
+  {
+    "Angle": [
+      -13.89094352722168,
+      88.30335998535156
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_inferno",
+    "Nade": "smoke",
+    "Name": "Coffin",
+    "Pos": [
+      457.2663269042969,
+      1833.3106689453125,
+      136.03121948242188
+    ]
+  },
+  {
+    "Angle": [
+      -30.92778778076172,
+      61.0056266784668
+    ],
+    "Desc": "Throw",
+    "MapName": "de_inferno",
+    "Nade": "smoke",
+    "Name": "CT",
+    "Pos": [
+      260.4605712890625,
+      1539.539306640625,
+      117.82007598876953
+    ]
+  },
+  {
+    "Angle": [
+      -39.397830963134766,
+      77.80093383789063
+    ],
+    "Desc": "Throw",
+    "MapName": "de_inferno",
+    "Nade": "molotov",
+    "Name": "Caixa",
+    "Pos": [
+      409.3262634277344,
+      2009.150390625,
+      136.03121948242188
+    ]
+  },
+  {
+    "Angle": [
+      -37.316680908203125,
+      123.73263549804688
+    ],
+    "Desc": "Throw",
+    "MapName": "de_inferno",
+    "Nade": "molotov",
+    "Name": "Tripla",
+    "Pos": [
+      479.02117919921875,
+      2016.9649658203125,
+      136.0312042236328
+    ]
+  },
+  {
+    "Angle": [
+      -9.147966384887695,
+      -45.763919830322266
+    ],
+    "Desc": "Throw",
+    "MapName": "de_inferno",
+    "Nade": "smoke",
+    "Name": "Caminhao",
+    "Pos": [
+      1604.7520751953125,
+      -277.9130859375,
+      256.03125
+    ]
+  },
+  {
+    "Angle": [
+      -10.115962982177734,
+      -2.686711311340332
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_inferno",
+    "Nade": "smoke",
+    "Name": "MID2",
+    "Pos": [
+      -936.2216796875,
+      584.3287963867188,
+      -29.797607421875
+    ]
+  },
+  {
+    "Angle": [
+      -36.784515380859375,
+      33.17776870727539
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_inferno",
+    "Nade": "smoke",
+    "Name": "Long/NIP",
+    "Pos": [
+      -276.96868896484375,
+      -255.96868896484375,
+      28.031248092651367
+    ]
+  },
+  {
+    "Angle": [
+      -28.266162872314453,
+      34.6297721862793
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_inferno",
+    "Nade": "smoke",
+    "Name": "Long/NIP2",
+    "Pos": [
+      91.46875,
+      -195.21484375,
+      51.67755126953125
+    ]
+  },
+  {
+    "Angle": [
+      -20.81260108947754,
+      4.524972915649414
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_inferno",
+    "Nade": "smoke",
+    "Name": "Areia",
+    "Pos": [
+      91.46875,
+      -195.21484375,
+      51.67755126953125
+    ]
+  },
+  {
+    "Angle": [
+      -37.5589599609375,
+      10.38138198852539
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_inferno",
+    "Nade": "smoke",
+    "Name": "NIP/Adega",
+    "Pos": [
+      330.418701171875,
+      471.0312805175781,
+      92.03125
+    ]
+  },
+  {
+    "Angle": [
+      -63.550025939941406,
+      5.976925849914551
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_inferno",
+    "Nade": "smoke",
+    "Name": "NIP/Adega 2",
+    "Pos": [
+      1075.8251953125,
+      587.9652099609375,
+      112.86405181884766
+    ]
+  },
+  {
+    "Angle": [
+      -35.0909423828125,
+      40.29291915893555
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_inferno",
+    "Nade": "smoke",
+    "Name": "Arco",
+    "Pos": [
+      91.46875,
+      -195.213134765625,
+      51.67737579345703
+    ]
+  },
+  {
+    "Angle": [
+      -25.314233779907227,
+      18.077375411987305
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_inferno",
+    "Nade": "smoke",
+    "Name": "Biblioteca",
+    "Pos": [
+      300.9626159667969,
+      454.0721130371094,
+      92.03125
+    ]
+  },
+  {
+    "Angle": [
+      -43.51277160644531,
+      48.084529876708984
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_inferno",
+    "Nade": "smoke",
+    "Name": "Deep Banana",
+    "Pos": [
+      -858.9692993164063,
+      450.63763427734375,
+      -26.0953369140625
+    ]
+  },
+  {
+    "Angle": [
+      -33.687679290771484,
+      59.0716667175293
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_inferno",
+    "Nade": "smoke",
+    "Name": "CT B",
+    "Pos": [
+      -247.62091064453125,
+      780.031494140625,
+      29.03980255126953
+    ]
+  },
+  {
+    "Angle": [
+      -28.9929256439209,
+      62.84689712524414
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_inferno",
+    "Nade": "smoke",
+    "Name": "CT Pezinho",
+    "Pos": [
+      279.3626403808594,
+      1581.729736328125,
+      123.17850494384766
+    ]
+  },
+  {
+    "Angle": [
+      -44.19072341918945,
+      -86.6118392944336
+    ],
+    "Desc": "Jump & Throw",
+    "MapName": "de_inferno",
+    "Nade": "smoke",
+    "Name": "Tapete",
+    "Pos": [
+      1946.0296630859375,
+      1235.96875,
+      174.2332763671875
+    ]
+  },
+  {
+    "Angle": [
+      -11.220270156860352,
+      -142.57717895507813
+    ],
+    "Desc": "Jump + Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Smoke CT",
+    "Pos": [
+      907.8859252929688,
+      -1036.030029296875,
+      -251.96875
+    ]
+  },
+  {
+    "Angle": [
+      -28.46803092956543,
+      -165.32431030273438
+    ],
+    "Desc": "W + Jump + Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Spawn Janela",
+    "Pos": [
+      1296.0,
+      32.0,
+      -167.96875
+    ]
+  },
+  {
+    "Angle": [
+      7.70003080368042,
+      44.54127883911133
+    ],
+    "Desc": "Jump + Throw",
+    "MapName": "de_mirage",
+    "Nade": "molotov",
+    "Name": "Molotov Tapete",
+    "Pos": [
+      -2198.96875,
+      89.03124237060547,
+      -159.96875
+    ]
+  },
+  {
+    "Angle": [
+      -12.363941192626953,
+      155.02511596679688
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Entry B",
+    "Pos": [
+      -1024.03125,
+      640.5509033203125,
+      -79.96875
+    ]
+  },
+  {
+    "Angle": [
+      -6.115595817565918,
+      -126.68708801269531
+    ],
+    "Desc": "Throw",
+    "MapName": "de_mirage",
+    "Nade": "smoke",
+    "Name": "Entry A",
+    "Pos": [
+      388.23876953125,
+      -2127.968505859375,
+      -39.96875
+    ]
+  },
+  {
+    "Angle": [
+      -44.84798049926758,
+      -19.179922103881836
+    ],
+    "Desc": "Jump + Throw",
+    "MapName": "de_nuke",
+    "Nade": "smoke",
+    "Name": "Passagem Terra",
+    "Pos": [
+      -1351.423583984375,
+      -1045.647705078125,
+      -415.96875
+    ]
+  },
+  {
+    "Angle": [
+      -20.16403579711914,
+      -21.55591583251953
+    ],
+    "Desc": "Jump + Throw",
+    "MapName": "de_nuke",
+    "Nade": "smoke",
+    "Name": "Passagem Secret",
+    "Pos": [
+      -1351.3521728515625,
+      -1045.0987548828125,
+      -415.96875
+    ]
+  },
+  {
+    "Angle": [
+      -44.4520263671875,
+      -19.13531494140625
+    ],
+    "Desc": "W + Jump + Throw",
+    "MapName": "de_nuke",
+    "Nade": "smoke",
+    "Name": "Garagem",
+    "Pos": [
+      -1351.86962890625,
+      -1049.349853515625,
+      -415.96875
+    ]
+  },
+  {
+    "Angle": [
+      -21.836380004882813,
+      48.97649383544922
+    ],
+    "Desc": "Throw",
+    "MapName": "de_nuke",
+    "Nade": "smoke",
+    "Name": "Catch",
+    "Pos": [
+      63.34998321533203,
+      -1427.96240234375,
+      -89.96875
+    ]
+  }
+]
