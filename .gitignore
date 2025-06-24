@@ -48,3 +48,4 @@ obj/
 *.rar
 
 Controller/Memory.cpp
+x64/
