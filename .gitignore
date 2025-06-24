@@ -1,0 +1,51 @@
+# Prerequisites
+*.d
+out/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.log
+*.tlog
+*.ilk
+*.recipe
+
+# Precompiled Headers
+*.gch
+*.pch
+*.ipch
+*.pdb
+*.idb
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+*.sys
+*.db
+.vs/
+obj/
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+*.rar
+*.id0
+*.id1
+*.dmp
+*.rar
+
+Controller/Memory.cpp
+x64/
