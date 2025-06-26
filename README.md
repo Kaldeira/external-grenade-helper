@@ -26,6 +26,7 @@ It displays useful overlays such as lineup markers, throw indicators, and more t
 - Covers all grenade types with accurate lineup positions
 - Easily save and edit new grenade lineups directly via JSON
 - Works on any map
+- Read offsets from JSON
 
 ---
 
